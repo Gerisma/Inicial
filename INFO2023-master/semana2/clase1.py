@@ -1,0 +1,38 @@
+'''
+ESTRUCTURAS DE CONTROL: CONDICIONALES
+'''
+
+# CONDICIONALES SIMPLES
+
+#condicion, es cualquier expresion que de como resultado
+#un valor de verdad
+
+if (condicion):
+	CONJUNTO DE ACCIONES
+
+# CONDICIONALES ALTERNATIAVAS
+
+if (condicion):
+	#SI ES VERDADERA LA condicion
+	CONJUNTO DE ACCIONES
+else:
+	#SI ES FALSA LA condicion
+	CONJUNTO DE ACCIONES
+
+# CONDICIONAL MULTIPLE
+# SOLO SE EJECUTA UN CONJUNTO DE ACCIONES
+
+if (condicion):
+	CONJUNTO DE ACCIONES
+elif (condicion2):
+	CONJUNTO DE ACCIONES
+elif (condicion3):
+	CONJUNTO DE ACCIONES
+elif (condicion4):
+	CONJUNTO DE ACCIONES
+else:
+	CONJUNTO DE ACCIONES
+
+
+
+
